@@ -54,6 +54,7 @@ I was awarded "Star of Tomorrow" title at the end of internship for excellent pe
 * Global Rank 18 and China Rank 2 in IEEExtreme Programming Contest
 * Meritorious Winner of MCM
 * Winner of IBM Scholarship and National Scholarship
+* Codeforces Rating: 1727
 
 ## Projects
 

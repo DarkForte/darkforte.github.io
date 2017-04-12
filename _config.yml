@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "DarkZero's Blog"
 title_separator          : "-"
 name                     : "Weichen Zero"
-description              : "I know everything you say but how does it work?"
+description              : "A blog for my notes in research topics like Deep Learning and Reinforcement Learning."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : darkforte/darkforte.github.io
