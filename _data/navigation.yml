@@ -1,8 +1,8 @@
 # main links
 main:
   - title: "About this blog"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About me"
+    url: /about
+  - title: "My resume"
     url: /resume
   # - title: "Sample Posts"
   #   url: /year-archive/

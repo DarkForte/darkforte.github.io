@@ -19,7 +19,6 @@ Please refer to the left.
 * I did **one-year internship** in **Microsoft Research Asia** doing research project on big data analysis and was awarded the **Star of Tomorrow** title.
 * I'm fluent in **English** (TOEFL 105, GRE 321+4) and **Japanese** (N1 125).
 * I'm an **ACM-ICPC silver medal winner** of **EC-Final round** in China.
-* I regard myself as a quick learner with rich project experience in a variety of fields. 
 
 ## Education
 
