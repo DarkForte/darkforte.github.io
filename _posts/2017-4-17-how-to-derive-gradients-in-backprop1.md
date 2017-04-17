@@ -13,7 +13,7 @@ When I was learning CS231n I also struggled on deriving vectorized gradients for
 
 ### Rule one: Use dimension analysis.
 
-The first rule in deriving gradients in a neural network is: do not compute matrix-matrix gradients directly unless you are very confident on your matrix calculus skills. By using dimension analysis, one can work out every matrix-matrix gradients indirectly with scalar calculus in neural networks. I regard dimension analysis as the most useful tool here. Dimension analysis can save you from all the troublesome problems like analyzing the gradients element by element, wondering whether to sum or not, arranging matrix multiplication order, considering when to transpose a matrix and so on. It is also mentioned a bit in the course notes in CS231n.
+The first rule in deriving gradients in a neural network is: do not compute matrix-matrix gradients directly unless you are very confident on your matrix calculus skills. By using dimension analysis, one can work out every matrix-matrix gradient indirectly with scalar calculus in neural networks. I regard dimension analysis as the most useful tool here. Dimension analysis can save you from all the troublesome problems like analyzing the gradients element by element, wondering whether to sum or not, arranging matrix multiplication order, considering when to transpose a matrix and so on. It is also mentioned a bit in the course notes in CS231n.
 
 So what is dimension analysis? Let's take an example. Suppose the forward pass is $$score=XW+b$$, where the shape of `X` is NxD, `W` is DxC and `b` is 1xC, so the shape of `score` is NxC. Now the gradient of `Loss` (marked as `L` below) to `score` is given to us by the previous layer. Let's derive the gradients of `Loss` to `W` and `b`.
 
