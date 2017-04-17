@@ -4,7 +4,7 @@ title: "How to derive gradients in backprop without knowing matrix calculus (Par
 date: 2017-04-17
 categories: Deep-Learning
 author_profile: false
-comment:true
+comment: true
 ---
 
 I believe lots of people had a hard time deriving the gradients in back propagation when they are learning about neural networks (or deep learning). You understand every example in the lecture, but when it comes to the homework you will find everything vectorized, making your skills on scalar calculus nearly useless. Perhaps matrix differentiation is the biggests obstacle for a newcomer to deep learning. 
