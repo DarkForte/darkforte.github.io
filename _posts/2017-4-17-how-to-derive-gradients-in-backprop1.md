@@ -46,3 +46,5 @@ It will be kind of hard to come up with the sum operation if you analyze it elem
 (Picture from: [Zhihu](https://www.zhihu.com/question/47024992/answer/103962301))
 
 In short, never try to compute matrix-matrix gradients directly in neural networks. Make good use of dimension analysis and it can save you tons of trouble.
+
+Rule two will be covered in the next post.
