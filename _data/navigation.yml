@@ -2,8 +2,8 @@
 main:
   - title: "About this blog"
     url: /about
-  - title: "My resume"
-    url: /resume
+  - title: "About me"
+    url: /aboutme
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
