@@ -12,7 +12,7 @@ I'm a PhD student in Peking University doing research on reinforcement learning.
 
 When I was an undergraduate, I participated in ACM-ICPC for three years and won several silver medals in regional contests, including the EC-Final round held in China. 
 
-I spent my last year doing internship in Microsoft Research Asia. I took responsibility for a research project called "BigIn4", which is the backend of [Quick Insights](https://powerbi.microsoft.com/en-us/documentation/powerbi-service-auto-insights/) feature in Microsoft Power BI. I learned a lot about big data processing and Hadoop and Spark framework there. The system is successfully demonstrated on the TAB meeting and TechFest in Microsoft. At the end of my internship, I was awarded the "Star of Tomorrow" title for excellent performance.
+I spent my last year in undergraduate doing internship in Microsoft Research Asia. I took responsibility for a research project called "BigIn4", which is the backend of [Quick Insights](https://powerbi.microsoft.com/en-us/documentation/powerbi-service-auto-insights/) feature in Microsoft Power BI. I learned a lot about big data processing and Hadoop and Spark framework there. The system is successfully demonstrated on the TAB meeting and TechFest in Microsoft. At the end of my internship, I was awarded the "Star of Tomorrow" title for excellent performance.
 
 I wish I could become an excellent technical leader and build stable as well as clever systems in the future. 
 
