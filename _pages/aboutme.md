@@ -8,7 +8,7 @@ permalink: /aboutme
 author_profile: true
 ---
 
-I'm currently Ph.D. student at Peking University. I got my bachelor's degree from Beijing University of Technology.
+I'm a current student in the M.S in Computer Science program at Carnegie Mellon University. I got my bachelor's degree from Beijing University of Technology.
 
 When I was an undergraduate, I participated in ACM-ICPC for three years and won several silver medals in regional contests, including the EC-Final round held in China. 
 
